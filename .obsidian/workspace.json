@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "aee57c75f6f2d3aa",
+        "id": "b358b7928070bb25",
         "type": "tabs",
         "children": [
           {
-            "id": "18f303e23f909a24",
+            "id": "fa8b8001ac1e0686",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/Assignment1/TASK 3.md",
+                "file": "Linux/Assignment5/TASK 3.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/Assignment1/TASK 3.md",
+                "file": "Linux/Assignment5/TASK 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/Assignment1/TASK 3.md",
+                "file": "Linux/Assignment5/TASK 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/Assignment1/TASK 3.md"
+                "file": "Linux/Assignment5/TASK 3.md"
               }
             }
           }
@@ -146,37 +146,40 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "18f303e23f909a24",
+  "active": "fa8b8001ac1e0686",
   "lastOpenFiles": [
-    "Linux/Assignment1/TASK 2.md",
-    "Linux/Assignment2/TASK3.md",
-    "Linux/Assignment1/TASK 3.md",
-    "Linux/Assignment2/TASK4.md",
-    "Linux/Assignment1/TASK 4.md",
-    "Linux/Assignment1/TASK 5.md",
+    "Pasted image 20240106024544.png",
+    "Pasted image 20240106024347.png",
+    "Pasted image 20240106023826.png",
+    "Pasted image 20240106023502.png",
+    "2024-01-06.md",
+    "Linux/Assignment1/TASK 1.md",
+    "Linux/Assignment4/TASK 1.md",
+    "Linux/Assignment3/TASK 1.md",
+    "Linux/Assignment2/TASK 4.md",
     "Linux/Assignment1/TASK 6.md",
+    "Linux/Assignment1/TASK 5.md",
+    "Linux/Assignment1/TASK 3.md",
+    "Linux/Assignment1/TASK 2.md",
+    "Linux/Assignment2/TASK 3.md",
+    "Linux/Assignment2/TASK 2.md",
+    "Linux/Assignment4/TASK 2.md",
+    "Linux/Assignment5/TASK 3.md",
+    "Linux/Assignment5/TASK 2.md",
+    "Linux/Assignment5/TASK 1.md",
+    "Linux/Assignment5/TASK 4.md",
+    "Pasted image 20240106014606.png",
+    "Pasted image 20240106014317.png",
     "Linux/Assignment2/TASK 1.md",
+    "Linux/Assignment1/TASK 4.md",
     "Untitled.canvas",
-    "Linux/Assignment3/TASK1.md",
-    "Linux/Assignment2/TASK2.md",
-    "Linux/Assignment1/TASK1.md",
     "Linux/Assignment1",
-    "Linux/Assignment5/TASK2.md",
-    "Linux/Assignment5/TASK1.md",
-    "Linux/Assignment5/TASK3.md",
-    "Linux/Assignment4/TASK2.md",
-    "Linux/Assignment4/TASK1.md",
     "Pasted image 20240105235736.png",
     "Pasted image 20240105235523.png",
     "Pasted image 20240105234105.png",
     "Pasted image 20240105233135.png",
     "Pasted image 20240105233036.png",
-    "Pasted image 20240105232201.png",
-    "Pasted image 20240105231951.png",
-    "Pasted image 20240105231111.png",
     "Linux/Assignment5",
-    "Pasted image 20240105231052.png",
-    "Pasted image 20240105230853.png",
     "Linux/Assignment4",
     "Linux/Assignment3",
     "Linux/Assignment2/TASK4",
@@ -190,8 +193,6 @@
     "week1 and Git/PROMPT ENGINEERING.md",
     "week1 and Git/GIT.md",
     "week1 and Git/TEST.md",
-    "week1 and Git/WORKING OF GIT.md",
-    "week1 and Git/Git History.md",
     "Untitled 2.canvas",
     "Untitled 1.canvas"
   ]

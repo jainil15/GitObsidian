@@ -2,6 +2,7 @@ The following are the steps for installing ubuntu on Virtual Box:
 
 1. Download ubuntu's iso file from https://ubuntu.com/#downloadhttps://ubuntu.com/#download
 2. Open VirtualBox and click on "New", that will open a prompt Box 
+	
 	![[Pasted image 20240105144923.png]]
 Fill the following Inputs
  - Name: Name your virtual machine
@@ -16,6 +17,7 @@ After filling in the details click on next button.
 	![[Pasted image 20240105145837.png]]
 
 4. Now you will see options of either creating a new virtual disk of use an existing virtual disk. Click on "Create Virtual Hard Disk Now" and set it to 25GB or higher (15GB required for Ubuntu installation minimum). Then click next button.
+	
 	![[Pasted image 20240105150253.png]]
 
 5. You will see a summary of the Virtual Machine to check the settings. Then click "Finish".
