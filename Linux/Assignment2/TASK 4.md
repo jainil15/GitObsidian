@@ -1,5 +1,8 @@
-Linux file systems are organized in a hierarchical structure that starts with the root directory denoted by a forward slash `/`. Within this file system, various directories and files are organised to serve different purposes.`ls`command list of directory contents. Here are some common directories and their associated functions:
+<center><h1>TASK 4</h1></center>
 
+**a. Task:** Explore and document the Linux file system structure - Use the `ls` command to explore the key directories in the Linux file system. Document the purpose of each directory and its common contents.
+
+Linux file systems are organized in a hierarchical structure that starts with the root directory denoted by a forward slash `/`. Within this file system, various directories and files are organized to serve different purposes.`ls`command list of directory contents. Here are some common directories and their associated functions:
 
 1. **/ (Root Directory)**: The root directory is the top-level directory in the Linux file system. Everything in Linux is organized under this directory.
 	![[Pasted image 20240105202614.png]]

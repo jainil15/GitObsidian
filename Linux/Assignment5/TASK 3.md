@@ -1,5 +1,8 @@
+<center><h1>TASK 3</h1></center>
+
 **User and Group Management**
-Task: Create a set of user accounts and groups with specific permissions. Develop a scenario where different users need different access to certain directories. Document the user-group permissions and provide examples of commands used to achieve this
+**Task:** Create a set of user accounts and groups with specific permissions. Develop a scenario where different users need different access to certain directories. Document the user-group permissions and provide examples of commands used to achieve this
+
 1. Create users:
 ```bash
 sudo useradd dev1 dev2 marketingPerson1 marketingPerson2
@@ -25,6 +28,7 @@ sudo chown :Developers /DevModules
 sudo chown :Marketing /Marketing
 ```
 ![[Pasted image 20240106023502.png]]
+
 6. Change Permissions
 ```bash
 chmod 770 /DevModules
@@ -43,6 +47,7 @@ mkdir /Marketing/M
 
 ![[Pasted image 20240106024347.png]]
 Developers group will be unable to write in the DevModules directory.
+
 ```bash
 su marketingPerson1
 ls DevModules

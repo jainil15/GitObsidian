@@ -1,11 +1,14 @@
+<center><h1>TASK 5</h1></center>
 
-**htop:** This is htop, a cross-platform interactive process viewer.
+**Task**: Create a tutorial that explains how to use the "htop" command-line tool to monitor resource utilization on a Linux system. Cover the key features of "htop" and provide real-time examples of its application.
 
-To install htop use the following command:
+**htop:** This is `htop`, a cross-platform interactive process viewer.
+
+To install `htop` use the following command:
 	`sudo apt install htop`
 	
-**Using htop**
-- Open terminal and enter command  `htop` to launch htop interface.
+**Using `htop`:**
+- Open terminal and enter command  `htop` to launch the htop interface.
 ![[Pasted image 20240105160423.png]]
 
 **Following are the features shown:**

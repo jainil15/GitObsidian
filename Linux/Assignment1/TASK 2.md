@@ -1,21 +1,18 @@
-A Linux distribution is an OS made through a software collection that contains the Linux kernel and a package management system often.
+<center><h1>TASK 2</h1></center>
+
+**Task**: Research various Linux distributions and versions to find the optimal choice for server deployments. Analyze factors such as stability, long-term support, security features, and community support. Conclude with a recommendation for the best Linux OS and version for server usage.
+
+**Linux Distribution:** A Linux distribution is an OS made through a software collection that contains the Linux kernel and a package management system often.
 
 Following are the different Linux distributions:
 
 **Ubuntu:** It came into existence in 2004 by Canonical and quickly became popular. Canonical wants Ubuntu to be used as easy graphical Linux desktop without the use of command line. It is the most well known Linux distribution. Ubuntu is a next version of Debian and easy to use for newbies. It comes with a lots of pre-installed apps and easy to use repositories libraries.
 
-**Linux Mint:** Mint is based on Ubuntu and uses its repository software so some packages are common in both.
+**Linux Mint:** Mint is based on Ubuntu and uses its repository software so some packages are common in both. Earlier it was an alternative of Ubuntu because media codecs and proprietary software are included in mint but was absent in Ubuntu. But now it has its own popularity and it uses cinnamon and mate desktop instead of Ubuntu's unity desktop environment
 
-Earlier it was an alternative of Ubuntu because media codecs and proprietary software are included in mint but was absent in Ubuntu. But now it has its own popularity and it uses cinnamon and mate desktop instead of Ubuntu's unity desktop environment
-
-**Debian:** Debian has its existence since 1993 and releases its versions much slowly then Ubuntu and mint.
-
-This makes it one of the most stable Linux distributor.
-
-Ubuntu is based on Debian and was founded to improve the core bits of Debian more quickly and make it more user friendly. Every release name of Debian is based on the name of the movie Toy Story.
+**Debian:** Debian has its existence since 1993 and releases its versions much slowly then Ubuntu and mint. This makes it one of the most stable Linux distributor. Ubuntu is based on Debian and was founded to improve the core bits of Debian more quickly and make it more user friendly. Every release name of Debian is based on the name of the movie Toy Story.
 
 **Red Hat Enterprise / CentOS:** Red hat is a commercial Linux distributor. There products are red hat enterprise Linux (RHEL) and Fedora which are freely available. RHEL is well tested before release and supported till seven years after the release, whereas, fedora provides faster update and without any support.
-
 Red hat uses trademark law to prevent their software from being redistributed. CentOS is a community project that uses red hat enterprise Linux code but removes all its trademark and make it freely available. In other words, it is a free version of RHEL and provide a stable platform for a long time.
 
 **Fedora:** It is a project that mainly focuses on free software and provides latest version of software. It doesn't make its own desktop environment but used 'upstream' software. By default it has GNOME3 desktop environment. It is less stable but provides the latest stuff.
@@ -24,4 +21,4 @@ Red hat uses trademark law to prevent their software from being redistributed. C
 
 **Pop!_ OS:** Pop! OS is a free and open-source Linux distribution based on ubuntu and featuring GNOME desktop environment known as COSMIC. The distribution is developed by American Linux Computer manufacturer System76. Pop OS is primarily built to be bundled with the computers built by System76, but can be downloaded and installed on most computers.
 
-**Recommendations:** Considering the features of Linux Distribution mentioned above Ubuntu is recommended for Desktop and Ubuntu Server for server use. Debian/ RedHat / CentOS are good alternatives based on the specific requirements
+**Recommendations for Linux Servers:** CentOS is a great recommendation for server use because it has High stability, Long-Term support, Large community and has enterprise features such as virtualization and cloud integration.

@@ -1,10 +1,12 @@
-a. Task: Display the contents of a text file - Use commands like `cat`, `less`, or `more` to view the content of a text file. Describe the differences between these commands and identify scenarios where each is preferable.
+<center><h1>TASK 1</h1></center>
+
+**a. Task:** Display the contents of a text file - Use commands like `cat`, `less`, or `more` to view the content of a text file. Describe the differences between these commands and identify scenarios where each is preferable.
 
 **`cat`:** cat command is used to concatenate and print on the standard output.
 - cat command is simple and straight forward
 - cat shows the entire output at the same time.
 - cat command doesn't provide navigation.
- Use Cases:
+ **Use Cases:**
 - cat is suitable for small files
 
 ![[Pasted image 20240105173145.png]]
@@ -14,7 +16,7 @@ a. Task: Display the contents of a text file - Use commands like `cat`, `less`, 
 - Basic paging functionality
 - Suitable for browsing through a file.
 - `more` is similar to `less` but less features.
-Use Cases:
+**Use Cases:**
 - to view the text files in the command prompt, displaying one screen at a time in case the file is large
 
 ![[Pasted image 20240105174127.png]]
@@ -24,12 +26,12 @@ Use Cases:
 - Can handle large files.
 - `less` have more features.
 - `less` does not read the whole content of a file unlike `more` command.
-Use Cases:
+**Use Cases:**
 - `less` command is used for large files when you need to navigate interactively.
 
 ![[Pasted image 20240105173827.png]]
 --
-b. Task: Display a specific range of lines from a text file - Use the appropriate options with `cat`, `sed`, or `awk` to display a specific range of lines from a text file
+**b. Task:** Display a specific range of lines from a text file - Use the appropriate options with `cat`, `sed`, or `awk` to display a specific range of lines from a text file
 
 For displaying a range of lines from a text file using commands like `cat`, `sed` and `awk`. Following are the commands:
 

@@ -1,3 +1,6 @@
+<center><h1>TASK 4</h1></center>
+
+**Task**: Write a simple guide outlining the command to check the version of the current Ubuntu OS. Include explanations of the command and its output, along with sample screenshots.
 
 The following are the steps to check the version of ubuntu:
 1. Open terminal ( shortcut: ctrl + alt + T)

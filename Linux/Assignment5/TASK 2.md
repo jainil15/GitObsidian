@@ -1,5 +1,7 @@
+<center><h1>TASK 2</h1></center>
+
 **File Permission**
-Task: Create a file/folder and give it the fine-grained access to it. Research which user need how much permissions. Document the all the process and your research.
+**Task:** Create a file/folder and give it the fine-grained access to it. Research which user need how much permissions. Document the all the process and your research.
 
 To check permission of file/folder use:
 ```bash
@@ -8,7 +10,7 @@ ls -l ./ ./folder
 
 ![[Pasted image 20240105234105.png]]
 
-- To change permissions of the folder such that owner can read, write and execute while group can only read and execute and others can't access the file use command:
+To change permissions of the folder such that owner can read, write and execute while group can only read and execute and others can't access the file use command:
 
 ```bash
 chmod 750 folder

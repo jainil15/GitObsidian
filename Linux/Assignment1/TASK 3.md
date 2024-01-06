@@ -1,3 +1,7 @@
+<center><h1>TASK 3</h1></center>
+
+**Task**: Provide a step-by-step guide or video tutorial on how to install Ubuntu on VirtualBox or set up an Ubuntu instance in a cloud platform like AWS, Azure, or Google Cloud. Include screenshots or screen recordings for clarity.
+
 The following are the steps for installing ubuntu on Virtual Box:
 
 1. Download ubuntu's iso file from https://ubuntu.com/#downloadhttps://ubuntu.com/#download
@@ -29,20 +33,26 @@ After filling in the details click on next button.
    
 7. Now you will see Virtual Machine window and In which select "Try or install Ubuntu".
 	   ![[Pasted image 20240105150839.png]]
+ 
 8. Now you need to select the English and click on "Install Ubuntu"
 
 	![[Pasted image 20240105151116.png]]
+
 9. Now select the keyboard layout, English is recommended, and click on "Continue"
 	![[Pasted image 20240105151225.png]]
+
 10. Now you will see installation options, Select "Normal Installation" and in other options select "Download Update while installing Ubuntu" and click "Continue"
 	![[Pasted image 20240105151526.png]]
+
 11. Now you will see Installation Type options, in which select "Erase disk and install Ubuntu" after that click "Install Now", Then a warning dialogue box will appear, click on "Continue"
 	![[Pasted image 20240105151733.png]]
+
 12. Then, Select your time zone and click on "Continue"
 	![[Pasted image 20240105151942.png]]
+
 13. Now you need to enter your name, computer's name, username and password for the computer, after that click "Continue".
 	![[Pasted image 20240105152112.png]]
-	
+
 14. Now wait for it to install the ubuntu, This will take a while. After that you will need to restart the Virtual Machine.
 	![[Pasted image 20240105152230.png]]
 

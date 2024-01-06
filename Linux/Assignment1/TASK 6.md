@@ -1,3 +1,7 @@
+<center><h1>TASK 6</h1></center>
+
+**Task**: Develop a practical guide detailing the use of the "du -h" command to check disk space utilization. Provide examples for various directories and files, and explain the significance of the command's options and output.
+
 **`du -h`** command is used to estimate the space used by a directory or file. `-h` means human readable.
 
 ![[Pasted image 20240105165340.png]]

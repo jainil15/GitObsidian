@@ -1,4 +1,6 @@
-a. Task: Search and replace text in a file - Use the `sed` command to search for and replace specific text in a text file. Demonstrate the use of regular expressions.
+<center><h1>TASK 3</h1></center>
+
+**a. Task:** Search and replace text in a file - Use the `sed` command to search for and replace specific text in a text file. Demonstrate the use of regular expressions.
 
 e.g., Replace all "Nulla" with "Jainil" in smallfile.txt file.
 
