@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/Assignment1/TASK 2.md",
+                "file": "AWS/Password Policy.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "36eef3acc0847354",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TEMP.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#To",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,13 +97,13 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/Assignment1/TASK 2.md",
+                "file": "AWS/Password Policy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
+                "backlinkCollapsed": true,
                 "unlinkedCollapsed": true
               }
             }
@@ -102,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/Assignment1/TASK 2.md",
+                "file": "AWS/Password Policy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/Assignment1/TASK 2.md"
+                "file": "AWS/Password Policy.md"
               }
             }
           }
@@ -133,7 +145,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -143,56 +155,58 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-tts:Text to Speech": false
     }
   },
   "active": "1eda77de3775df6c",
   "lastOpenFiles": [
-    "Network",
-    "Linux/Assignment3/TASK 1.md",
-    "Linux/Assignment5/TASK 1.md",
+    "AWS/Steps to create an aws account.md",
+    "AWS/Enable Multi-Factor Authentication (MFA) for S3-User.md",
+    "Pasted image 20240124232955.png",
+    "AWS/Password Policy.md",
+    "Pasted image 20240124232419.png",
+    "Pasted image 20240124232134.png",
+    "45pj7kgd.bmp",
+    "Untitled.canvas",
+    "Untitled.md",
+    "Pasted image 20240124230516.png",
+    "Pasted image 20240124230317.png",
+    "Pasted image 20240124230241.png",
+    "Pasted image 20240124230156.png",
+    "Pasted image 20240124225735.png",
+    "Pasted image 20240124225723.png",
+    "AWS/Create User Group.md",
+    "AWS/Creating IAM account.md",
+    "Linux/Assignment1/TASK 4.md",
+    "TEMP.md",
     "Linux/Assignment5/TASK 2.md",
+    "AWS",
+    "Linux/Assignment5/TASK 1.md",
     "Linux/Assignment5/TASK 3.md",
     "Linux/Assignment5/TASK 4.md",
     "Linux/Assignment5/TASK 5.md",
-    "Linux/Assignment4/TASK 1.md",
     "Linux/Assignment4/TASK 2.md",
+    "Linux/Assignment4/TASK 1.md",
+    "Linux/Assignment3/TASK 1.md",
     "Linux/Assignment2/TASK 4.md",
-    "Pasted image 20240106181915.png",
-    "Pasted image 20240106181909.png",
-    "Pasted image 20240106181907.png",
-    "Pasted image 20240106181857.png",
-    "Linux/Assignment2/TASK 2.md",
-    "Pasted image 20240106163025.png",
-    "Pasted image 20240106163014.png",
-    "Linux/Assignment2/TASK 1.md",
-    "Linux/Assignment1/TASK 2.md",
     "Linux/Assignment2/TASK 3.md",
+    "Linux/Assignment2/TASK 2.md",
+    "Linux/Assignment2/TASK 1.md",
     "Linux/Assignment1/TASK 6.md",
-    "Linux/Assignment1/TASK 5.md",
-    "Linux/Assignment1/TASK 4.md",
     "Linux/Assignment1/TASK 3.md",
+    "Linux/Assignment1/TASK 2.md",
     "Linux/Assignment1/TASK 1.md",
-    "Pasted image 20240106131048.png",
-    "Pasted image 20240106130600.png",
-    "Untitled.canvas",
-    "Untitled.md",
-    "Pasted image 20240106024544.png",
-    "Pasted image 20240106024347.png",
-    "2024-01-06.md",
+    "week1 and Git/2023-12-28.md",
+    "Network",
     "Linux/Assignment1",
     "Linux/Assignment5",
     "Linux/Assignment4",
     "Linux/Assignment3",
     "Linux/Assignment2/TASK4",
-    "TASK 1.md",
     "Linux/Assignment2",
-    "week1 and Git/SCRUM.md",
     "Linux",
     "week1 and Git",
-    "week1 and Git/AGILE.md",
-    "week1 and Git/Getting Started About Version Control.md",
-    "week1 and Git/PROMPT ENGINEERING.md",
     "Untitled 2.canvas",
     "Untitled 1.canvas"
   ]
