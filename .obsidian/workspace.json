@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AWS/Password Policy.md",
+                "file": "AWS/Assignment2/TASK 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AWS/Password Policy.md",
+                "file": "AWS/Assignment2/TASK 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AWS/Password Policy.md",
+                "file": "AWS/Assignment2/TASK 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AWS/Password Policy.md"
+                "file": "AWS/Assignment2/TASK 1.md"
               }
             }
           }
@@ -161,22 +161,25 @@
   },
   "active": "1eda77de3775df6c",
   "lastOpenFiles": [
-    "AWS/Steps to create an aws account.md",
-    "AWS/Enable Multi-Factor Authentication (MFA) for S3-User.md",
-    "Pasted image 20240124232955.png",
+    "Linux/Assignment1/TASK 1.md",
+    "AWS/Assignment2/TASK 1.md",
+    "Pasted image 20240125185900.png",
+    "Pasted image 20240125185853.png",
+    "Pasted image 20240125185831.png",
+    "Pasted image 20240125185823.png",
+    "Pasted image 20240125185812.png",
+    "Pasted image 20240125185804.png",
+    "Pasted image 20240125185759.png",
+    "Pasted image 20240125185750.png",
+    "Pasted image 20240125185723.png",
+    "Pasted image 20240125185352.png",
     "AWS/Password Policy.md",
-    "Pasted image 20240124232419.png",
-    "Pasted image 20240124232134.png",
-    "45pj7kgd.bmp",
+    "AWS/Assignment2",
+    "AWS/Steps to create an aws account.md",
+    "AWS/Create User Group.md",
+    "AWS/Enable Multi-Factor Authentication (MFA) for S3-User.md",
     "Untitled.canvas",
     "Untitled.md",
-    "Pasted image 20240124230516.png",
-    "Pasted image 20240124230317.png",
-    "Pasted image 20240124230241.png",
-    "Pasted image 20240124230156.png",
-    "Pasted image 20240124225735.png",
-    "Pasted image 20240124225723.png",
-    "AWS/Create User Group.md",
     "AWS/Creating IAM account.md",
     "Linux/Assignment1/TASK 4.md",
     "TEMP.md",
@@ -196,8 +199,6 @@
     "Linux/Assignment1/TASK 6.md",
     "Linux/Assignment1/TASK 3.md",
     "Linux/Assignment1/TASK 2.md",
-    "Linux/Assignment1/TASK 1.md",
-    "week1 and Git/2023-12-28.md",
     "Network",
     "Linux/Assignment1",
     "Linux/Assignment5",
@@ -206,7 +207,6 @@
     "Linux/Assignment2/TASK4",
     "Linux/Assignment2",
     "Linux",
-    "week1 and Git",
     "Untitled 2.canvas",
     "Untitled 1.canvas"
   ]
